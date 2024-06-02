@@ -1,2 +1,2 @@
 # WB2
-Semester project on NLP
+Semester project on NLI
